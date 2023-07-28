@@ -1,3 +1,8 @@
+<p align="center">
+ <img src="https://github.com/johnbaguinaga/Monte-Hall-Game-and-Probability/assets/106455858/67c7464c-ef61-4031-aacc-32c132ad324d" width="450" height="200">
+</p>
+  
+  
 # Monte Hall Game and Probability
  
 
